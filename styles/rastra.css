@@ -1,0 +1,1462 @@
+
+body {
+  background-color:#eee8aa;
+}
+#container {
+  position:relative;
+  left:10px;
+  top:0;
+  background-color:#fffff0;
+  width:1200px;
+  height:600px;
+  padding:5px;
+}
+#header {
+  position:absolute;
+  left:500px;
+  top:10px;
+  text-align:center;
+  background-color:#fffff0;
+  width:150px;
+  height:50px;
+}
+.title {
+  text-align:center;
+  font-family:sans-serif;
+  font-size:24px;
+  color:#bdb76b;
+  text-shadow:2px 2px 0 #dcdcdc;
+}
+#footer {
+  position:absolute;
+  left:10px;
+  top:580px;
+  text-align:center;
+  background-color:#fffff0;
+  width:220px;
+  height:25px;
+}
+.info {
+  font-family:sans-serif;
+  font-size:16px;
+  color:#778899;
+}
+/* time  */
+.blank {
+  background:url("../images/u1d100/siena.png") -20px  540px;
+  width:8px;
+  height:8px;
+}
+.commonTime {
+  background:url("../images/u1d100/siena.png") -750px 435px;
+  width:28px;
+  height:28px;
+}
+/* ledger */
+.barLine {
+  background:url("../images/u1d100/gold.png") -27px 486px;
+  width:20px;
+  height:50px;
+}
+.fiveLines {
+  background:url("../images/u1d100/gold.png") -228px 580px;
+  width:65px;
+  height:60px;
+}
+.dashedBarLine {
+  background:url("../images/u1d100/siena.png") -251px 486px;
+  width:20px;
+  height:50px;
+}
+.beginBarLine {
+  background:url("../images/u1d100/siena.png") -195px 486px;
+  width:22px;
+  height:50px;
+}
+.finalBarLine {
+  background:url("../images/u1d100/siena.png") -139px 486px;
+  width:22px;
+  height:50px;
+}
+.dblBarLine {
+  background:url("../images/u1d100/siena.png") -84px 486px;
+  width:20px;
+  height:50px;
+}
+/* clefs */
+.bassClef {
+  background:url("../images/u1d100/ruby.png") -132px 405px;
+  width:45px;
+  height:48px;
+}
+.drumClef {
+  background:url("../images/u1d100/ruby.png") -246px 405px;
+  width:28px;
+  height:54px;
+}
+.tenorClef {
+  background:url("../images/u1d100/ruby.png") -71px 405px;
+  width:45px;
+  height:55px;
+}
+.trebleClef {
+  background:url("../images/u1d100/ruby.png") -21px 405px;
+  width:30px;
+  height:62px;
+}
+/* accidentals */
+.flat {
+  background:url("../images/u1d100/siena.png") -352px 555px;
+  width:40px;
+  height:40px;
+}
+.natural {
+  background:url("../images/u1d100/siena.png") -415px 555px;
+  width:30px;
+  height:30px;
+}
+.sharp {
+  background:url("../images/u1d100/siena.png") -470px 555px;
+  width:30px;
+  height:30px;
+}
+.dblFlat {
+  background:url("../images/u1d100/siena.png") -352px 380px;
+  width:40px;
+  height:40px;
+}
+.dblSharp {
+  background:url("../images/u1d100/siena.png") -310px 362px;
+  width:15px;
+  height:15px;
+}
+/* notes and rest  */
+.voidNoteHead {
+  background:url("../images/u1d100/siena.png") -354px 320px;
+  width:40px;
+  height:40px;
+}
+.darkNoteHead {
+  background:url("../images/u1d100/siena.png") -354px 273px;
+  width:40px;
+  height:40px;
+}
+.wholeNote {
+  background:url("../images/u1d100/siena.png") -23px 195px;
+  width:30px;
+  height:22px;
+}
+.wholeRest {
+  background:url("../images/u1d100/siena.png") -23px 293px;
+  width:30px;
+  height:30px;
+}
+.halfNoteDown {
+  background:url("../images/u1d100/siena.png") -78px 228px;
+  width:32px;
+  height:58px;
+}
+.halfNoteUp {
+  background:url("../images/u1d100/siena.png") -78px 170px;
+  width:32px;
+  height:58px;
+}
+.halfRest {
+  background:url("../images/u1d100/siena.png") -78px 295px;
+  width:30px;
+  height:30px;
+}
+.quarterNoteDown {
+  background:url("../images/u1d100/siena.png") -134px 229px;
+  width:32px;
+  height:58px;
+}
+.quarterNoteUp {
+  background:url("../images/u1d100/siena.png") -132px 170px;
+  width:32px;
+  height:58px;
+}
+.quarterRest {
+  background:url("../images/u1d100/siena.png") -134px 298px;
+  width:30px;
+  height:40px;
+}
+.eigthNoteDown {
+  background:url("../images/u1d100/siena.png") -188px 228px;
+  width:32px;
+  height:58px;
+}
+.eigthNoteUp {
+  background:url("../images/u1d100/siena.png") -188px 168px;
+  width:32px;
+  height:58px;
+}
+.eigthRest {
+  background:url("../images/u1d100/siena.png") -190px 290px;
+  width:30px;
+  height:40px;
+}
+.sixteenthNoteDown {
+  background:url("../images/u1d100/siena.png") -245px 228px;
+  width:32px;
+  height:58px;
+}
+.sixteenthNoteUp {
+  background:url("../images/u1d100/siena.png") -245px 168px;
+  width:32px;
+  height:58px;
+}
+.sixteenthRest {
+  background:url("../images/u1d100/siena.png") -246px 296px;
+  width:30px;
+  height:40px;
+}
+.thirty2ndNoteDown {
+  background:url("../images/u1d100/siena.png") -301px 231px;
+  width:32px;
+  height:58px;
+}
+.thirty2ndNoteUp {
+  background:url("../images/u1d100/siena.png") -301px 165px;
+  width:32px;
+  height:58px;
+}
+.thirty2ndRest {
+  background:url("../images/u1d100/siena.png") -304px 306px;
+  width:30px;
+  height:50px;
+}
+.voidSemiBrevis {
+  background:url("../images/u1d100/siena.png") -358px 198px;
+  width:30px;
+  height:30px;
+}
+.darkSemiBrevis {
+  background:url("../images/u1d100/siena.png") -358px 175px;
+  width:30px;
+  height:30px;
+}
+.voidMinimaDown {
+  background:url("../images/u1d100/siena.png") -414px 225px;
+  width:30px;
+  height:52px;
+}
+.voidMinimaUp {
+  background:url("../images/u1d100/siena.png") -414px 168px;
+  width:30px;
+  height:52px;
+}
+.darkMinimaDown {
+  background:url("../images/u1d100/siena.png") -470px 225px;
+  width:30px;
+  height:52px;
+}
+.darkMinimaUp {
+  background:url("../images/u1d100/siena.png") -470px 168px;
+  width:30px;
+  height:52px;
+}
+.semiMinimaDown {
+  background:url("../images/u1d100/siena.png") -527px 225px;
+  width:30px;
+  height:52px;
+}
+.semiMinimaUp {
+  background:url("../images/u1d100/siena.png") -527px 168px;
+  width:30px;
+  height:52px;
+}
+.fusaDown {
+  background:url("../images/u1d100/siena.png") -584px 225px;
+  width:30px;
+  height:52px;
+}
+.fusaUp {
+  background:url("../images/u1d100/siena.png") -584px 168px;
+  width:30px;
+  height:52px;
+}
+/* note relation  */
+.beam {
+  background:url("../images/u1d100/siena.png") -28px 41px;
+  width:74px;
+  height:20px;
+}
+.dblBeam {
+  background:url("../images/u1d100/siena.png") -140px 45px;
+  width:74px;
+  height:24px;
+}
+.shortBeam {
+  background:url("../images/u1d100/siena.png") -265px 41px;
+  width:46px;
+  height:20px;
+}
+.miniBeam {
+  background:url("../images/u1d100/siena.png") -265px 77px;
+  width:26px;
+  height:20px;
+}
+.dot {
+  background:url("../images/u1d100/siena.png") -23px 156px;
+  width:30px;
+  height:22px;
+}
+.slurLow {
+  background:url("../images/u1d100/siena.png") -481px 40px;
+  width:65px;
+  height:20px;
+}
+.slurTop {
+  background:url("../images/u1d100/siena.png") -370px 40px;
+  width:65px;
+  height:20px;
+}
+.glissandoDown {
+  background:url("../images/u1d100/siena.png") -745px 114px;
+  width:30px;
+  height:30px;
+}
+.glissandoUp {
+  background:url("../images/u1d100/siena.png") -745px 64px;
+  width:30px;
+  height:30px;
+}
+/* repeats and codas */
+.beat {
+  background:url("../images/u1d100/siena.png") -470px 472px;
+  width:30px;
+  height:45px;
+}
+.repeat {
+  background:url("../images/u1d100/siena.png") -526px 472px;
+  width:30px;
+  height:45px;
+}
+.repeatDots {
+  background:url("../images/u1d100/siena.png") -415px 475px;
+  width:30px;
+  height:30px;
+}
+.repeatRight {
+  background:url("../images/u1d100/siena.png") -360px 486px;
+  width:30px;
+  height:50px;
+}
+.repeatLeft {
+  background:url("../images/u1d100/siena.png") -305px 486px;
+  width:30px;
+  height:50px;
+}
+.coda {
+  background:url("../images/u1d100/siena.png") -527px 540px;
+  width:30px;
+  height:34px;
+}
+.sign {
+  background:url("../images/u1d100/siena.png") -578px 548px;
+  width:35px;
+  height:40px;
+}
+.tremoloDownOne {
+  background:url("../images/u1d100/siena.png") -753px 495px;
+  width:25px;
+  height:30px;
+}
+.tremoloUpOne {
+  background:url("../images/u1d100/siena.png") -753px 548px;
+  width:25px;
+  height:30px;
+}
+.tremoloDownTwo {
+  background:url("../images/u1d100/siena.png") -753px 328px;
+  width:25px;
+  height:30px;
+}
+.tremoloUpTwo {
+  background:url("../images/u1d100/siena.png") -753px 380px;
+  width:25px;
+  height:30px;
+}
+.tremoloDown3 {
+  background:url("../images/u1d100/siena.png") -753px 160px;
+  width:25px;
+  height:32px;
+}
+.tremoloUp3 {
+  background:url("../images/u1d100/siena.png") -753px 212px;
+  width:25px;
+  height:32px;
+}
+/* dynamics */
+.forte {
+  background:url("../images/u1d100/siena.png") -636px 123px;
+  width:36px;
+  height:30px;
+}
+.mezzo {
+  background:url("../images/u1d100/siena.png") -637px 205px;
+  width:36px;
+  height:27px;
+}
+.piano {
+  background:url("../images/u1d100/siena.png") -635px 287px;
+  width:36px;
+  height:27px;
+}
+.crescendo {
+  background:url("../images/u1d100/siena.png") -750px 290px;
+  width:30px;
+  height:30px;
+}
+.decrescendo {
+  background:url("../images/u1d100/siena.png") -750px 254px;
+  width:30px;
+  height:30px;
+}
+.fermata {
+  background:url("../images/u1d100/siena.png") -580px 68px;
+  width:36px;
+  height:27px;
+}
+.fermataLow {
+  background:url("../images/u1d100/siena.png") -636px 68px;
+  width:36px;
+  height:27px;
+}
+/* ornaments */
+.trill {
+  background:url("../images/u1d100/siena.png") -637px 375px;
+  width:36px;
+  height:27px;
+}
+.grace {
+  background:url("../images/u1d100/siena.png") -643px 458px;
+  width:20px;
+  height:28px;
+}
+.flam {
+  background:url("../images/u1d100/siena.png") -643px 542px;
+  width:20px;
+  height:28px;
+}
+.arpeggio {
+  background:url("../images/u1d100/siena.png") -587px 472px;
+  width:20px;
+  height:40px;
+}
+.mordent {
+  background:url("../images/u1d100/siena.png") -696px 69px;
+  width:25px;
+  height:25px;
+}
+.turnInvert {
+  background:url("../images/u1d100/siena.png") -692px 121px;
+  width:35px;
+  height:25px;
+}
+.turn {
+  background:url("../images/u1d100/siena.png") -692px 157px;
+  width:35px;
+  height:25px;
+}
+/* layout  */
+#line00 {
+  position:relative;
+  left:50px;
+  top:50px;
+}
+#line01 {
+  position:relative;
+  left:50px;
+  top:150px;
+}
+#line02 {
+  position:relative;
+  left:50px;
+  top:250px;
+}
+#line03 {
+  position:relative;
+  left:50px;
+  top:350px;
+}
+#line04 {
+  position:relative;
+  left:50px;
+  top:450px;
+}
+/* bars */
+#bar00 {
+  position:absolute;
+  left:0px;
+  top:30px;
+}
+#bar01 {
+  position:absolute;
+  left:270px;
+  top:30px;
+}
+#bar02 {
+  position:absolute;
+  left:500px;
+  top:30px;
+}
+#bar03 {
+  position:absolute;
+  left:730px;
+  top:30px;
+}
+#bar04 {
+  position:absolute;
+  left:962px;
+  top:30px;
+}
+/* sections */
+#staff00 {
+  position:absolute;
+  left:0px;
+  top:20px;
+}
+#staff01 {
+  position:absolute;
+  left:40px;
+  top:20px;
+}
+#staff02 {
+  position:absolute;
+  left:84px;
+  top:20px;
+}
+#staff03 {
+  position:absolute;
+  left:128px;
+  top:20px;
+}
+#staff04 {
+  position:absolute;
+  left:172px;
+  top:20px;
+}
+#staff05 {
+  position:absolute;
+  left:216px;
+  top:20px;
+}
+#staff06 {
+  position:absolute;
+  left:260px;
+  top:20px;
+}
+#staff07 {
+  position:absolute;
+  left:304px;
+  top:20px;
+}
+#staff08 {
+  position:absolute;
+  left:346px;
+  top:20px;
+}
+#staff09 {
+  position:absolute;
+  left:390px;
+  top:20px;
+}
+#staff10 {
+  position:absolute;
+  left:434px;
+  top:20px;
+}
+#staff11 {
+  position:absolute;
+  left:478px;
+  top:20px;
+}
+#staff12 {
+  position:absolute;
+  left:522px;
+  top:20px;
+}
+#staff13 {
+  position:absolute;
+  left:566px;
+  top:20px;
+}
+#staff14 {
+  position:absolute;
+  left:610px;
+  top:20px;
+}
+#staff15 {
+  position:absolute;
+  left:654px;
+  top:20px;
+}
+#staff16 {
+  position:absolute;
+  left:698px;
+  top:20px;
+}
+#staff17 {
+  position:absolute;
+  left:742px;
+  top:20px;
+}
+#staff18 {
+  position:absolute;
+  left:786px;
+  top:20px;
+}
+#staff19 {
+  position:absolute;
+  left:830px;
+  top:20px;
+}
+#staff20 {
+  position:absolute;
+  left:874px;
+  top:20px;
+}
+#staff21 {
+  position:absolute;
+  left:918px;
+  top:20px;
+}
+/* template */
+#clef00 {
+  position:absolute;
+  left:10px;
+  top:27px;
+}
+/* line00 */
+#a00 {
+  position:absolute;
+  left:0;
+  top:0;
+}
+#a01 {
+  position:absolute;
+  left:61px;
+  top:28px;
+}
+#a02 {
+  position:absolute;
+  left:88px;
+  top:28px;
+}
+#a03 {
+  position:absolute;
+  left:115px;
+  top:28px;
+}
+#a04 {
+  position:absolute;
+  left:142px;
+  top:28px;
+}
+#a05 {
+  position:absolute;
+  left:169px;
+  top:28px;
+}
+#a06 {
+  position:absolute;
+  left:196px;
+  top:28px;
+}
+#a07 {
+  position:absolute;
+  left:223px;
+  top:28px;
+}
+#a08 {
+  position:absolute;
+  left:250px;
+  top:28px;
+}
+#a09 {
+  position:absolute;
+  left:290px;
+  top:28px;
+}
+#a10 {
+  position:absolute;
+  left:317px;
+  top:28px;
+}
+#a11 {
+  position:absolute;
+  left:344px;
+  top:28px;
+}
+#a12 {
+  position:absolute;
+  left:371px;
+  top:28px;
+}
+#a13 {
+  position:absolute;
+  left:398px;
+  top:28px;
+}
+#a14 {
+  position:absolute;
+  left:425px;
+  top:28px;
+}
+#a15 {
+  position:absolute;
+  left:452px;
+  top:28px;
+}
+#a16 {
+  position:absolute;
+  left:479px;
+  top:28px;
+}
+#a17 {
+  position:absolute;
+  left:520px;
+  top:28px;
+}
+#a18 {
+  position:absolute;
+  left:547px;
+  top:28px;
+}
+#a19 {
+  position:absolute;
+  left:574px;
+  top:28px;
+}
+#a20 {
+  position:absolute;
+  left:601px;
+  top:28px;
+}
+#a21 {
+  position:absolute;
+  left:628px;
+  top:28px;
+}
+#a22 {
+  position:absolute;
+  left:655px;
+  top:28px;
+}
+#a23 {
+  position:absolute;
+  left:682px;
+  top:28px;
+}
+#a24 {
+  position:absolute;
+  left:709px;
+  top:28px;
+}
+#a25 {
+  position:absolute;
+  left:749px;
+  top:28px;
+}
+#a26 {
+  position:absolute;
+  left:776px;
+  top:28px;
+}
+#a27 {
+  position:absolute;
+  left:803px;
+  top:28px;
+}
+#a28 {
+  position:absolute;
+  left:830px;
+  top:28px;
+}
+#a29 {
+  position:absolute;
+  left:857px;
+  top:28px;
+}
+#a30 {
+  position:absolute;
+  left:884px;
+  top:28px;
+}
+#a31 {
+  position:absolute;
+  left:911px;
+  top:28px;
+}
+#a32 {
+  position:absolute;
+  left:938px;
+  top:28px;
+}
+/* line01 */
+#b00 {
+  position:absolute;
+  left:0;
+  top:0;
+}
+#b01 {
+  position:absolute;
+  left:61px;
+  top:28px;
+}
+#b02 {
+  position:absolute;
+  left:88px;
+  top:28px;
+}
+#b03 {
+  position:absolute;
+  left:115px;
+  top:28px;
+}
+#b04 {
+  position:absolute;
+  left:142px;
+  top:28px;
+}
+#b05 {
+  position:absolute;
+  left:169px;
+  top:28px;
+}
+#b06 {
+  position:absolute;
+  left:196px;
+  top:28px;
+}
+#b07 {
+  position:absolute;
+  left:223px;
+  top:28px;
+}
+#b08 {
+  position:absolute;
+  left:250px;
+  top:28px;
+}
+#b09 {
+  position:absolute;
+  left:290px;
+  top:28px;
+}
+#b10 {
+  position:absolute;
+  left:317px;
+  top:28px;
+}
+#b11 {
+  position:absolute;
+  left:344px;
+  top:28px;
+}
+#b12 {
+  position:absolute;
+  left:371px;
+  top:28px;
+}
+#b13 {
+  position:absolute;
+  left:398px;
+  top:28px;
+}
+#b14 {
+  position:absolute;
+  left:425px;
+  top:28px;
+}
+#b15 {
+  position:absolute;
+  left:452px;
+  top:28px;
+}
+#b16 {
+  position:absolute;
+  left:479px;
+  top:28px;
+}
+#b17 {
+  position:absolute;
+  left:520px;
+  top:28px;
+}
+#b18 {
+  position:absolute;
+  left:547px;
+  top:28px;
+}
+#b19 {
+  position:absolute;
+  left:574px;
+  top:28px;
+}
+#b20 {
+  position:absolute;
+  left:601px;
+  top:28px;
+}
+#b21 {
+  position:absolute;
+  left:628px;
+  top:28px;
+}
+#b22 {
+  position:absolute;
+  left:655px;
+  top:28px;
+}
+#b23 {
+  position:absolute;
+  left:682px;
+  top:28px;
+}
+#b24 {
+  position:absolute;
+  left:709px;
+  top:28px;
+}
+#b25 {
+  position:absolute;
+  left:749px;
+  top:28px;
+}
+#b26 {
+  position:absolute;
+  left:776px;
+  top:28px;
+}
+#b27 {
+  position:absolute;
+  left:803px;
+  top:28px;
+}
+#b28 {
+  position:absolute;
+  left:830px;
+  top:28px;
+}
+#b29 {
+  position:absolute;
+  left:857px;
+  top:28px;
+}
+#b30 {
+  position:absolute;
+  left:884px;
+  top:28px;
+}
+#b31 {
+  position:absolute;
+  left:911px;
+  top:28px;
+}
+#b32 {
+  position:absolute;
+  left:938px;
+  top:28px;
+}
+/* line02 */
+#c00 {
+  position:absolute;
+  left:0;
+  top:0;
+}
+#c01 {
+  position:absolute;
+  left:61px;
+  top:28px;
+}
+#c02 {
+  position:absolute;
+  left:88px;
+  top:28px;
+}
+#c03 {
+  position:absolute;
+  left:115px;
+  top:28px;
+}
+#c04 {
+  position:absolute;
+  left:142px;
+  top:28px;
+}
+#c05 {
+  position:absolute;
+  left:169px;
+  top:28px;
+}
+#c06 {
+  position:absolute;
+  left:196px;
+  top:28px;
+}
+#c07 {
+  position:absolute;
+  left:223px;
+  top:28px;
+}
+#c08 {
+  position:absolute;
+  left:250px;
+  top:28px;
+}
+#c09 {
+  position:absolute;
+  left:290px;
+  top:28px;
+}
+#c10 {
+  position:absolute;
+  left:317px;
+  top:28px;
+}
+#c11 {
+  position:absolute;
+  left:344px;
+  top:28px;
+}
+#c12 {
+  position:absolute;
+  left:371px;
+  top:28px;
+}
+#c13 {
+  position:absolute;
+  left:398px;
+  top:28px;
+}
+#c14 {
+  position:absolute;
+  left:425px;
+  top:28px;
+}
+#c15 {
+  position:absolute;
+  left:452px;
+  top:28px;
+}
+#c16 {
+  position:absolute;
+  left:479px;
+  top:28px;
+}
+#c17 {
+  position:absolute;
+  left:520px;
+  top:28px;
+}
+#c18 {
+  position:absolute;
+  left:547px;
+  top:28px;
+}
+#c19 {
+  position:absolute;
+  left:574px;
+  top:28px;
+}
+#c20 {
+  position:absolute;
+  left:601px;
+  top:28px;
+}
+#c21 {
+  position:absolute;
+  left:628px;
+  top:28px;
+}
+#c22 {
+  position:absolute;
+  left:655px;
+  top:28px;
+}
+#c23 {
+  position:absolute;
+  left:682px;
+  top:28px;
+}
+#c24 {
+  position:absolute;
+  left:709px;
+  top:28px;
+}
+#c25 {
+  position:absolute;
+  left:749px;
+  top:28px;
+}
+#c26 {
+  position:absolute;
+  left:776px;
+  top:28px;
+}
+#c27 {
+  position:absolute;
+  left:803px;
+  top:28px;
+}
+#c28 {
+  position:absolute;
+  left:830px;
+  top:28px;
+}
+#c29 {
+  position:absolute;
+  left:857px;
+  top:28px;
+}
+#c30 {
+  position:absolute;
+  left:884px;
+  top:28px;
+}
+#c31 {
+  position:absolute;
+  left:911px;
+  top:28px;
+}
+#c32 {
+  position:absolute;
+  left:938px;
+  top:28px;
+}
+/* line03 */
+#d00 {
+  position:absolute;
+  left:0;
+  top:0;
+}
+#d01 {
+  position:absolute;
+  left:61px;
+  top:28px;
+}
+#d02 {
+  position:absolute;
+  left:88px;
+  top:28px;
+}
+#d03 {
+  position:absolute;
+  left:115px;
+  top:28px;
+}
+#d04 {
+  position:absolute;
+  left:142px;
+  top:28px;
+}
+#d05 {
+  position:absolute;
+  left:169px;
+  top:28px;
+}
+#d06 {
+  position:absolute;
+  left:196px;
+  top:28px;
+}
+#d07 {
+  position:absolute;
+  left:223px;
+  top:28px;
+}
+#d08 {
+  position:absolute;
+  left:250px;
+  top:28px;
+}
+#d09 {
+  position:absolute;
+  left:290px;
+  top:28px;
+}
+#d10 {
+  position:absolute;
+  left:317px;
+  top:28px;
+}
+#d11 {
+  position:absolute;
+  left:344px;
+  top:28px;
+}
+#d12 {
+  position:absolute;
+  left:371px;
+  top:28px;
+}
+#d13 {
+  position:absolute;
+  left:398px;
+  top:28px;
+}
+#d14 {
+  position:absolute;
+  left:425px;
+  top:28px;
+}
+#d15 {
+  position:absolute;
+  left:452px;
+  top:28px;
+}
+#d16 {
+  position:absolute;
+  left:479px;
+  top:28px;
+}
+#d17 {
+  position:absolute;
+  left:520px;
+  top:28px;
+}
+#d18 {
+  position:absolute;
+  left:547px;
+  top:28px;
+}
+#d19 {
+  position:absolute;
+  left:574px;
+  top:28px;
+}
+#d20 {
+  position:absolute;
+  left:601px;
+  top:28px;
+}
+#d21 {
+  position:absolute;
+  left:628px;
+  top:28px;
+}
+#d22 {
+  position:absolute;
+  left:655px;
+  top:28px;
+}
+#d23 {
+  position:absolute;
+  left:682px;
+  top:28px;
+}
+#d24 {
+  position:absolute;
+  left:709px;
+  top:28px;
+}
+#d25 {
+  position:absolute;
+  left:749px;
+  top:28px;
+}
+#d26 {
+  position:absolute;
+  left:776px;
+  top:28px;
+}
+#d27 {
+  position:absolute;
+  left:803px;
+  top:28px;
+}
+#d28 {
+  position:absolute;
+  left:830px;
+  top:28px;
+}
+#d29 {
+  position:absolute;
+  left:857px;
+  top:28px;
+}
+#d30 {
+  position:absolute;
+  left:884px;
+  top:28px;
+}
+#d31 {
+  position:absolute;
+  left:911px;
+  top:28px;
+}
+#d32 {
+  position:absolute;
+  left:938px;
+  top:28px;
+}
+/* line04 */
+#e00 {
+  position:absolute;
+  left:0;
+  top:0;
+}
+#e01 {
+  position:absolute;
+  left:61px;
+  top:28px;
+}
+#e02 {
+  position:absolute;
+  left:88px;
+  top:28px;
+}
+#e03 {
+  position:absolute;
+  left:115px;
+  top:28px;
+}
+#e04 {
+  position:absolute;
+  left:142px;
+  top:28px;
+}
+#e05 {
+  position:absolute;
+  left:169px;
+  top:28px;
+}
+#e06 {
+  position:absolute;
+  left:196px;
+  top:28px;
+}
+#e07 {
+  position:absolute;
+  left:223px;
+  top:28px;
+}
+#e08 {
+  position:absolute;
+  left:250px;
+  top:28px;
+}
+#e09 {
+  position:absolute;
+  left:290px;
+  top:28px;
+}
+#e10 {
+  position:absolute;
+  left:317px;
+  top:28px;
+}
+#e11 {
+  position:absolute;
+  left:344px;
+  top:28px;
+}
+#e12 {
+  position:absolute;
+  left:371px;
+  top:28px;
+}
+#e13 {
+  position:absolute;
+  left:398px;
+  top:28px;
+}
+#e14 {
+  position:absolute;
+  left:425px;
+  top:28px;
+}
+#e15 {
+  position:absolute;
+  left:452px;
+  top:28px;
+}
+#e16 {
+  position:absolute;
+  left:479px;
+  top:28px;
+}
+#e17 {
+  position:absolute;
+  left:520px;
+  top:28px;
+}
+#e18 {
+  position:absolute;
+  left:547px;
+  top:28px;
+}
+#e19 {
+  position:absolute;
+  left:574px;
+  top:28px;
+}
+#e20 {
+  position:absolute;
+  left:601px;
+  top:28px;
+}
+#e21 {
+  position:absolute;
+  left:628px;
+  top:28px;
+}
+#e22 {
+  position:absolute;
+  left:655px;
+  top:28px;
+}
+#e23 {
+  position:absolute;
+  left:682px;
+  top:28px;
+}
+#e24 {
+  position:absolute;
+  left:709px;
+  top:28px;
+}
+#e25 {
+  position:absolute;
+  left:749px;
+  top:28px;
+}
+#e26 {
+  position:absolute;
+  left:776px;
+  top:28px;
+}
+#e27 {
+  position:absolute;
+  left:803px;
+  top:28px;
+}
+#e28 {
+  position:absolute;
+  left:830px;
+  top:28px;
+}
+#e29 {
+  position:absolute;
+  left:857px;
+  top:28px;
+}
+#e30 {
+  position:absolute;
+  left:884px;
+  top:28px;
+}
+#e31 {
+  position:absolute;
+  left:911px;
+  top:28px;
+}
+#e32 {
+  position:absolute;
+  left:938px;
+  top:28px;
+}
+
