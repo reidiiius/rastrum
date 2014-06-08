@@ -3,7 +3,7 @@ Rastrum
 
 ### Music Engraving
 
-- version: 140607.0
+- version: 140608.0
 
 #### time
 
@@ -13,12 +13,20 @@ Rastrum
 #### ledger
 
 - barLine
+- fourLines
 - fiveLines
+- sixLines
 - dashedBarLine
 - beginBarLine
 - finalBarLine
 - dblBarLine
 - brace
+- braceTop
+- braceMid
+- braceLow
+- bracketTop
+- bracketLow
+- shimTall
 
 #### clefs
 
