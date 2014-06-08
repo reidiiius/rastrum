@@ -3,7 +3,7 @@ Rastrum
 
 ### Music Engraving
 
-- version: 140605.1
+- version: 140607.0
 
 #### time
 
@@ -18,6 +18,7 @@ Rastrum
 - beginBarLine
 - finalBarLine
 - dblBarLine
+- brace
 
 #### clefs
 

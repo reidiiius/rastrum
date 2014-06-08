@@ -109,6 +109,11 @@ body {
   width:20px;
   height:50px;
 }
+.brace {
+  background:url("../images/u2300/bronze.png") -106px 240px;
+  width:28px;
+  height:142px;
+}
 /* clefs */
 .bassClef {
   background:url("../images/u1d100/ruby.png") -132px 405px;
