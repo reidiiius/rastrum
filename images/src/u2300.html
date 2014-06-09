@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>u2300</title>
+<style type="text/css">
+body {
+  background-color:#fff;
+  font-size:38px;
+  color:#444;
+}
+#a  {
+  position:absolute;
+  left:10px;
+  top:10px
+}
+#b  {
+  position:absolute;
+  left:40px;
+  top:10px
+}
+#c  {
+  position:absolute;
+  left:10px;
+  top:70px
+}
+#d  {
+  position:absolute;
+  left:40px;
+  top:70px
+}
+#e  {
+  position:absolute;
+  left:10px;
+  top:130px
+}
+#f  {
+  position:absolute;
+  left:32px;
+  top:130px
+}
+#g  {
+  position:absolute;
+  left:10px;
+  top:190px
+}
+#h  {
+  position:absolute;
+  left:32px;
+  top:190px
+}
+#i  {
+  position:absolute;
+  left:10px;
+  top:250px
+}
+#j  {
+  position:absolute;
+  left:32px;
+  top:250px
+}
+#fullBrace_1 {
+  position:absolute;
+  left:74px;
+  top:60px;
+  transform:rotate(90deg);
+  font-size:104px;
+}
+#fullBrace_2 {
+  position:absolute;
+  left:110px;
+  top:60px;
+  transform:rotate(90deg);
+  font-size:128px;
+}
+.fs56 {
+  font-size:56px;
+}
+.fs68 {
+  font-size:68px;
+}
+.fs67 {
+  font-size:67px;
+}
+#braceTop {
+  position:absolute;
+  left:140px;
+  top:26px;
+}
+#braceLow {
+  position:absolute;
+  left:140px;
+  top:100px;
+}
+#braceSecTop_1 {
+  position:absolute;
+  left:186px;
+  top:0px;
+}
+#braceSecMid_a {
+  position:absolute;
+  left:186px;
+  top:45px;
+}
+#braceSecMid_b {
+  position:absolute;
+  left:186px;
+  top:99px;
+}
+#braceSecLow_1 {
+  position:absolute;
+  left:186px;
+  top:146px;
+}
+#shimLong {
+  position:absolute;
+  left:124px;
+  top:216px;
+}
+#shimShort {
+  position:absolute;
+  left:144px;
+  top:216px;
+}
+#tabBracket_1 {
+  position:absolute;
+  left:20px;
+  top:176px;
+  transform:rotate(90deg);
+  font-size:72px;
+}
+#tabBracket_2 {
+  position:absolute;
+  left:56px;
+  top:204px;
+  transform:rotate(90deg);
+  font-size:58px;
+}
+#tabBracket_3 {
+  position:absolute;
+  left:92px;
+  top:210px;
+  transform:rotate(90deg);
+  font-size:44px;
+}
+#veil01 {
+  position:absolute;
+  left:234px;
+  top:212px;
+  width:18px;
+  height:30px;
+  background-color:#fff;
+  z-index:1;
+}
+#veil02 {
+  position:absolute;
+  left:185px;
+  top:190px;
+  width:34px;
+  height:20px;
+  background-color:#fff;
+  z-index:1;
+}
+#veil03 {
+  position:absolute;
+  left:185px;
+  top:88px;
+  width:34px;
+  height:20px;
+  background-color:#fff;
+  z-index:1;
+}
+#veil04 {
+  position:absolute;
+  left:142px;
+  top:210px;
+  width:34px;
+  height:10px;
+  background-color:#fff;
+  z-index:1;
+}
+#veil05 {
+  position:absolute;
+  left:162px;
+  top:260px;
+  width:12px;
+  height:38px;
+  background-color:#fff;
+  z-index:1;
+}
+#bracketTop {
+  position:absolute;
+  left:194px;
+  top:148px;
+  transform:rotate(90deg);
+  font-size:59px;
+}
+#bracketMid {
+  position:absolute;
+  left:220px;
+  top:184px;
+  transform:rotate(90deg);
+  font-size:59px;
+}
+#bracketLow {
+  position:absolute;
+  left:194px;
+  top:220px;
+  transform:rotate(90deg);
+  font-size:59px;
+}
+#cornerTopMid {
+  position:absolute;
+  left:264px;
+  top:140px;
+  transform:rotate(180deg);
+}
+#cornerTopRight {
+  position:absolute;
+  left:264px;
+  top:194px;
+}
+#cornerLowRight {
+  position:absolute;
+  left:264px;
+  top:200px;
+}
+#cornerLowMid {
+  position:absolute;
+  left:264px;
+  top:150px;
+  transform:rotate(0deg);
+}
+#cornerLowLeft {
+  position:absolute;
+  left:264px;
+  top:224px;
+}
+#cornerTopLeft {
+  position:absolute;
+  left:264px;
+  top:270px;
+}
+.rx180 {
+  transform:rotatex(180deg);
+}
+.r90 {
+  transform:rotate(90deg);
+}
+.r270 {
+  transform:rotate(270deg);
+}
+#tie1 {
+  position:absolute;
+  left:240px;
+  top:0px;
+}
+#tie2 {
+  position:absolute;
+  left:240px;
+  top:0px;
+}
+#tie3 {
+  position:absolute;
+  left:240px;
+  top:30px;
+}
+#tie4 {
+  position:absolute;
+  left:240px;
+  top:50px;
+}
+#tie5 {
+  position:absolute;
+  left:206px;
+  top:0px;
+}
+#tie6 {
+  position:absolute;
+  left:206px;
+  top:4px;
+}
+#slurLeft {
+  font-size:80%;
+  position:absolute;
+  left:80px;
+  top:10px;
+}
+#slurBar {
+  font-size:80%;
+  position:absolute;
+  left:124px;
+  top:10px;
+}
+#slurRight {
+  font-size:80%;
+  position:absolute;
+  left:168px;
+  top:10px;
+}
+#slurLeftLow {
+  font-size:80%;
+  position:absolute;
+  left:98px;
+  top:36px;
+}
+#slurRightLow {
+  font-size:80%;
+  position:absolute;
+  left:148px;
+  top:36px;
+}
+#angleTopRight {
+  position:absolute;
+  left:260px;
+  top:56px;
+  transform:rotate(90deg);
+  font-size:220%;
+}
+#angleTopLeft {
+  position:absolute;
+  left:260px;
+  top:80px;
+  transform:rotate(90deg);
+  font-size:220%;
+}
+#angleLowLeft {
+  position:absolute;
+  left:90px;
+  top:233px;
+  transform:rotate(90deg);
+  font-size:220%;
+}
+#angleLowRight {
+  position:absolute;
+  left:194px;
+  top:233px;
+  transform:rotate(90deg);
+  font-size:220%;
+}
+</style>
+</head>
+<body>
+<div id="a">&#x2320;</div>
+<div id="b">&#x239B;</div>
+<div id="c" class="rx180">&#x2320;</div>
+<div id="d">&#x239D;</div>
+<div id="e">&#x23A1;</div>
+<div id="f">&#x23A7;</div>
+<div id="g">&#x23A3;</div>
+<div id="h">&#x23A9;</div>
+<div id="i">&#x23A2;</div>
+<div id="j">&#x23A8;</div>
+<div id="fullBrace_1">&#x23DF;</div>
+<div id="fullBrace_2">&#x23DF;</div>
+<div id="braceTop" class="fs56">&#x23B0;</div>
+<div id="braceLow" class="fs56">&#x23B1;</div>
+<div id="braceSecTop_1" class="fs56">&#x23B0;</div>
+<div id="braceSecMid_a" class="fs56">&#x23B0;</div>
+<div id="braceSecMid_b" class="fs56">&#x23B1;</div>
+<div id="braceSecLow_1" class="fs56">&#x23B1;</div>
+<div id="shimLong" class="fs67">&#x23AA;</div>
+<div id="shimShort" class="fs67">&#x23AA;</div>
+<div id="tabBracket_1">&#x23E1;</div>
+<div id="tabBracket_2">&#x23E1;</div>
+<div id="tabBracket_3">&#x23E1;</div>
+<div id="veil01"></div>
+<div id="veil02"></div>
+<div id="veil03"></div>
+<div id="veil04"></div>
+<div id="veil05"></div>
+<div id="bracketTop">&#x23E1;</div>
+<div id="bracketLow">&#x23E1;</div>
+<div id="cornerTopLeft">&#x231C;</div>
+<div id="cornerTopRight">&#x231D;</div>
+<div id="cornerLowRight">&#x231F;</div>
+<div id="cornerLowLeft">&#x231E;</div>
+<div id="cornerTopMid">&#x2335;</div>
+<div id="cornerLowMid">&#x2335;</div>
+<div id="tie1">&#x23DC;</div>
+<div id="tie2">&#x23DD;</div>
+<div id="tie3">&#x2322;</div>
+<div id="tie4">&#x2323;</div>
+<div id="tie5" class="rx180">&#x23D1;</div>
+<div id="tie6">&#x23D1;</div>
+<div id="slurLeft" class="r90">&#x239D;</div>
+<div id="slurBar" class="r90">&#x239C;</div>
+<div id="slurRight" class="r90">&#x239B;</div>
+<div id="slurLeftLow" class="r270">&#x239B;</div>
+<div id="slurRightLow" class="r270">&#x239D;</div>
+<div id="angleTopRight">&#x23BE;</div>
+<div id="angleTopLeft">&#x23BF;</div>
+<div id="angleLowLeft">&#x23CC;</div>
+<div id="angleLowRight">&#x23CB;</div>
+
+<div style="position:absolute;left:287px;top:287px;">&#x230F;</div>
+</body>
+</html>
+
