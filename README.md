@@ -3,7 +3,7 @@ Rastrum
 
 ### Music Engraving
 
-- version: 140609.0
+- version: 140611.0
 
 #### time
 
@@ -144,6 +144,21 @@ Rastrum
 - mordent
 - turnInvert
 - turn
+
+#### zodiac
+
+- pisces
+- aquarius
+- capricorn
+- sagittarius
+- scorpio
+- libra
+- virgo
+- leo
+- cancer
+- gemini
+- taurus
+- aries
 
 ### Distribution
 

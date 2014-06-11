@@ -584,5 +584,66 @@
   width:35px;
   height:25px;
 }
+/* zodiac */
+.pisces {
+  background:url("../images/u1f700/darkteal.png") -6px -10px;
+  width:24px;
+  height:24px;
+}
+.aquarius {
+  background:url("../images/u1f700/darkteal.png") -39px -10px;
+  width:24px;
+  height:24px;
+}
+.capricorn {
+  background:url("../images/u1f700/darkteal.png") -68px -10px;
+  width:24px;
+  height:24px;
+}
+.sagittarius {
+  background:url("../images/u1f700/darkteal.png") -97px -10px;
+  width:24px;
+  height:24px;
+}
+.scorpio {
+  background:url("../images/u1f700/darkteal.png") -124px -10px;
+  width:24px;
+  height:24px;
+}
+.libra {
+  background:url("../images/u1f700/darkteal.png") -153px -10px;
+  width:24px;
+  height:24px;
+}
+.virgo {
+  background:url("../images/u1f700/darkteal.png") -181px -10px;
+  width:24px;
+  height:24px;
+}
+.leo {
+  background:url("../images/u1f700/darkteal.png") -210px -10px;
+  width:24px;
+  height:24px;
+}
+.cancer {
+  background:url("../images/u1f700/darkteal.png") -240px -10px;
+  width:24px;
+  height:24px;
+}
+.gemini {
+  background:url("../images/u1f700/darkteal.png") -268px -10px;
+  width:24px;
+  height:24px;
+}
+.taurus {
+  background:url("../images/u1f700/darkteal.png") -298px -10px;
+  width:24px;
+  height:24px;
+}
+.aries {
+  background:url("../images/u1f700/darkteal.png") -328px -10px;
+  width:24px;
+  height:24px;
+}
 
 
