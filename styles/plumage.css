@@ -645,5 +645,102 @@
   width:24px;
   height:24px;
 }
+/* planets */
+.sun {
+  background:url("../images/u1f700/darkteal.png") -6px -45px;
+  width:24px;
+  height:24px;
+}
+.moon {
+  background:url("../images/u1f700/darkteal.png") -39px -49px;
+  width:24px;
+  height:24px;
+}
+.waningCrescent {
+  background:url("../images/u1f700/darkteal.png") -65px -45px;
+  width:24px;
+  height:24px;
+}
+.mercury {
+  background:url("../images/u1f700/darkteal.png") -97px -47px;
+  width:24px;
+  height:24px;
+}
+.venus {
+  background:url("../images/u1f700/darkteal.png") -125px -46px;
+  width:24px;
+  height:24px;
+}
+.pluto_mars {
+  background:url("../images/u1f700/darkteal.png") -153px -45px;
+  width:24px;
+  height:26px;
+}
+.mars {
+  background:url("../images/u1f700/darkteal.png") -181px -45px;
+  width:24px;
+  height:24px;
+}
+.jupiter {
+  background:url("../images/u1f700/darkteal.png") -211px -45px;
+  width:24px;
+  height:24px;
+}
+.saturn {
+  background:url("../images/u1f700/darkteal.png") -240px -45px;
+  width:24px;
+  height:24px;
+}
+.uranus {
+  background:url("../images/u1f700/darkteal.png") -268px -45px;
+  width:24px;
+  height:24px;
+}
+.neptune {
+  background:url("../images/u1f700/darkteal.png") -298px -45px;
+  width:24px;
+  height:24px;
+}
+.pluto {
+  background:url("../images/u1f700/darkteal.png") -328px -45px;
+  width:24px;
+  height:24px;
+}
+/* asteroids */
+.comet {
+  background:url("../images/u1f700/darkteal.png") -6px -116px;
+  width:24px;
+  height:26px;
+}
+.ceres {
+  background:url("../images/u1f700/darkteal.png") -40px -120px;
+  width:24px;
+  height:24px;
+}
+.pallas {
+  background:url("../images/u1f700/darkteal.png") -69px -120px;
+  width:24px;
+  height:24px;
+}
+.juno {
+  background:url("../images/u1f700/darkteal.png") -97px -120px;
+  width:24px;
+  height:24px;
+}
+.vesta {
+  background:url("../images/u1f700/darkteal.png") -126px -121px;
+  width:24px;
+  height:24px;
+}
+.chiron {
+  background:url("../images/u1f700/darkteal.png") -154px -120px;
+  width:24px;
+  height:26px;
+}
+.lilith {
+  background:url("../images/u1f700/darkteal.png") -180px -120px;
+  width:24px;
+  height:24px;
+}
 
 

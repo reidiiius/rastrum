@@ -225,6 +225,11 @@ body {
   left:61px;
   top:28px;
 }
+#a01Planet {
+  position:absolute;
+  left:44px;
+  top:2px;
+}
 #a01Zodiac {
   position:absolute;
   left:62px;

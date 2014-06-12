@@ -3,7 +3,7 @@ Rastrum
 
 ### Music Engraving
 
-- version: 140611.0
+- version: 140612.0
 
 #### time
 
@@ -159,6 +159,29 @@ Rastrum
 - gemini
 - taurus
 - aries
+
+#### planets
+
+- mars
+- venus
+- moon
+- jupiter
+- sun
+- mercury
+- saturn
+- uranus
+- neptune
+- pluto
+
+#### asteroids
+
+- comet
+- ceres
+- pallas
+- juno
+- vesta
+- chiron
+- lilith
 
 ### Distribution
 
