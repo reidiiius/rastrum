@@ -426,6 +426,31 @@
   width:65px;
   height:20px;
 }
+.tieTopBegin {
+  background:url("../images/u2300/darkkhaki.png") -65px -18px;
+  width:42px;
+  height:20px;
+}
+.tieLowBegin {
+  background:url("../images/u2300/darkkhaki.png") -85px -46px;
+  width:42px;
+  height:20px;
+}
+.tieSpanMid {
+  background:url("../images/u2300/darkkhaki.png") -110px -18px;
+  width:42px;
+  height:16px;
+}
+.tieTopEnd {
+  background:url("../images/u2300/darkkhaki.png") -154px -18px;
+  width:42px;
+  height:20px;
+}
+.tieLowEnd {
+  background:url("../images/u2300/darkkhaki.png") -135px -46px;
+  width:42px;
+  height:20px;
+}
 .glissandoDown {
   background:url("../images/u1d100/siena.png") -745px 114px;
   width:30px;

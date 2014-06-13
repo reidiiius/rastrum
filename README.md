@@ -3,7 +3,7 @@ Rastrum
 
 ### Music Engraving
 
-- version: 140612.0
+- version: 140612.1
 
 #### time
 
@@ -104,6 +104,11 @@ Rastrum
 - dot
 - slurLow
 - slurTop
+- tieTopBegin
+- tieLowBegin
+- tieSpanMid
+- tieTopEnd
+- tieLowEnd
 - glissandoDown
 - glissandoUp
 
