@@ -12,417 +12,417 @@
 }
 /* time  */
 .blank {
-  background:url("../images/u1d100/siena.png") -20px  540px;
+  background:url("../images/u1d100/siena.png") -20px  -60px;
   width:8px;
   height:8px;
 }
 .commonTime {
-  background:url("../images/u1d100/siena.png") -750px 435px;
+  background:url("../images/u1d100/siena.png") -750px -165px;
   width:28px;
   height:28px;
 }
 /* ledger */
 .barLine {
-  background:url("../images/u1d100/gold.png") -27px 486px;
+  background:url("../images/u1d100/gold.png") -27px -114px;
   width:20px;
   height:50px;
 }
 .fourLines {
-  background:url("../images/u1d100/gold.png") -174px 580px;
+  background:url("../images/u1d100/gold.png") -174px -20px;
   width:62px;
   height:60px;
 }
 .fiveLines {
-  background:url("../images/u1d100/gold.png") -230px 580px;
+  background:url("../images/u1d100/gold.png") -230px -20px;
   width:62px;
   height:68px;
 }
 .sixLines {
-  background:url("../images/u1d100/gold.png") -286px 580px;
+  background:url("../images/u1d100/gold.png") -286px -20px;
   width:62px;
   height:80px;
 }
 .dashedBarLine {
-  background:url("../images/u1d100/siena.png") -251px 486px;
+  background:url("../images/u1d100/siena.png") -251px -114px;
   width:20px;
   height:50px;
 }
 .beginBarLine {
-  background:url("../images/u1d100/siena.png") -195px 486px;
+  background:url("../images/u1d100/siena.png") -195px -114px;
   width:22px;
   height:50px;
 }
 .finalBarLine {
-  background:url("../images/u1d100/brown.png") -139px 486px;
+  background:url("../images/u1d100/brown.png") -139px -114px;
   width:22px;
   height:50px;
 }
 .dblBarLine {
-  background:url("../images/u1d100/siena.png") -84px 486px;
+  background:url("../images/u1d100/siena.png") -84px -114px;
   width:20px;
   height:50px;
 }
 .brace {
-  background:url("../images/u2300/bronze.png") -106px 240px;
-  width:28px;
+  background:url("../images/u2300/bronze.png") -105px -70px;
+  width:30px;
   height:142px;
 }
 .braceTop {
-  background:url("../images/u2300/saddlebrown.png") -194px 264px;
+  background:url("../images/u2300/saddlebrown.png") -194px -46px;
   width:28px;
   height:46px;
 }
 .braceMid {
-  background:url("../images/u2300/saddlebrown.png") -184px 206px;
+  background:url("../images/u2300/saddlebrown.png") -184px -104px;
   width:28px;
   height:90px;
 }
 .braceLow {
-  background:url("../images/u2300/saddlebrown.png") -194px 106px;
+  background:url("../images/u2300/saddlebrown.png") -194px -204px;
   width:28px;
   height:52px;
 }
 .bracketTop {
-  background:url("../images/u2300/bronze.png") -228px 150px;
+  background:url("../images/u2300/bronze.png") -228px -160px;
   width:28px;
   height:58px;
 }
 .bracketLow {
-  background:url("../images/u2300/bronze.png") -228px 70px;
+  background:url("../images/u2300/bronze.png") -228px -240px;
   width:28px;
   height:58px;
 }
 .shimTall {
-  background:url("../images/u2300/bronze.png") -138px 94px;
+  background:url("../images/u2300/bronze.png") -139px -216px;
   width:20px;
   height:86px;
 }
 /* clefs */
 .bassClef {
-  background:url("../images/u1d100/ruby.png") -132px 405px;
+  background:url("../images/u1d100/ruby.png") -132px -195px;
   width:45px;
   height:48px;
 }
 .drumClef {
-  background:url("../images/u1d100/ruby.png") -246px 405px;
+  background:url("../images/u1d100/ruby.png") -246px -195px;
   width:28px;
   height:54px;
 }
 .tenorClef {
-  background:url("../images/u1d100/ruby.png") -75px 405px;
+  background:url("../images/u1d100/ruby.png") -75px -195px;
   width:40px;
   height:55px;
 }
 .trebleClef {
-  background:url("../images/u1d100/ruby.png") -21px 405px;
+  background:url("../images/u1d100/ruby.png") -21px -195px;
   width:30px;
   height:62px;
 }
 /* accidentals */
 .flat {
-  background:url("../images/u1d100/siena.png") -352px 555px;
-  width:40px;
-  height:40px;
+  background:url("../images/u1d100/siena.png") -358px -47px;
+  width:30px;
+  height:30px;
 }
 .natural {
-  background:url("../images/u1d100/siena.png") -415px 555px;
+  background:url("../images/u1d100/siena.png") -415px -47px;
   width:30px;
   height:30px;
 }
 .sharp {
-  background:url("../images/u1d100/siena.png") -470px 555px;
+  background:url("../images/u1d100/siena.png") -471px -47px;
   width:30px;
   height:30px;
 }
 .dblFlat {
-  background:url("../images/u1d100/siena.png") -352px 380px;
+  background:url("../images/u1d100/siena.png") -354px -220px;
   width:40px;
   height:40px;
 }
 .dblSharp {
-  background:url("../images/u1d100/siena.png") -310px 362px;
-  width:15px;
-  height:15px;
+  background:url("../images/u1d100/siena.png") -309px -238px;
+  width:16px;
+  height:16px;
 }
 /* notes and rest  */
 .xHead {
-  background:url("../images/u1d100/siena.png") -415px  367px;
+  background:url("../images/u1d100/siena.png") -414px -234px;
   width:30px;
   height:30px;
 }
 .plusHead {
-  background:url("../images/u1d100/siena.png") -442px 270px;
+  background:url("../images/u1d100/siena.png") -442px -330px;
   width:30px;
   height:30px;
 }
 .xCircleHead {
-  background:url("../images/u1d100/siena.png") -498px 271px;
+  background:url("../images/u1d100/siena.png") -498px -330px;
   width:30px;
   height:30px;
 }
 .parenthesis {
-  background:url("../images/u1d100/siena.png") -555px  271px;
+  background:url("../images/u1d100/siena.png") -554px -330px;
   width:30px;
   height:30px;
 }
 .voidCluster {
-  background:url("../images/u1d100/siena.png") -45px  536px;
+  background:url("../images/u1d100/siena.png") -45px -65px;
   width:40px;
   height:50px;
 }
 .darkCluster {
-  background:url("../images/u1d100/siena.png") -102px  536px;
+  background:url("../images/u1d100/siena.png") -101px -65px;
   width:40px;
   height:50px;
 }
 .voidTriLeft {
-  background:url("../images/u1d100/siena.png") -43px  95px;
+  background:url("../images/u1d100/siena.png") -43px -505px;
   width:30px;
   height:30px;
 }
 .darkTriLeft {
-  background:url("../images/u1d100/siena.png") -93px  95px;
+  background:url("../images/u1d100/siena.png") -93px -505px;
   width:30px;
   height:30px;
 }
 .voidTriRight {
-  background:url("../images/u1d100/siena.png") -145px  95px;
+  background:url("../images/u1d100/siena.png") -145px -505px;
   width:30px;
   height:30px;
 }
 .darkTriRight {
-  background:url("../images/u1d100/siena.png") -195px  95px;
+  background:url("../images/u1d100/siena.png") -195px -505px;
   width:30px;
   height:30px;
 }
 .voidSquare {
-  background:url("../images/u1d100/siena.png") -324px  97px;
+  background:url("../images/u1d100/siena.png") -324px -505px;
   width:30px;
   height:30px;
 }
 .darkSquare {
-  background:url("../images/u1d100/siena.png") -364px  97px;
+  background:url("../images/u1d100/siena.png") -364px -505px;
   width:30px;
   height:30px;
 }
 .voidTriUp {
-  background:url("../images/u1d100/siena.png") -404px  95px;
+  background:url("../images/u1d100/siena.png") -404px -505px;
   width:30px;
   height:30px;
 }
 .darkTriUp {
-  background:url("../images/u1d100/siena.png") -444px  95px;
+  background:url("../images/u1d100/siena.png") -444px -505px;
   width:30px;
   height:30px;
 }
 .voidTriDown {
-  background:url("../images/u1d100/siena.png") -484px  98px;
+  background:url("../images/u1d100/siena.png") -484px -504px;
   width:30px;
   height:30px;
 }
 .darkTriDown {
-  background:url("../images/u1d100/siena.png") -524px  98px;
+  background:url("../images/u1d100/siena.png") -524px -504px;
   width:30px;
   height:30px;
 }
 .voidNoteHead {
-  background:url("../images/u1d100/siena.png") -354px 320px;
+  background:url("../images/u1d100/siena.png") -354px -280px;
   width:40px;
   height:40px;
 }
 .darkNoteHead {
-  background:url("../images/u1d100/siena.png") -354px 273px;
+  background:url("../images/u1d100/siena.png") -354px -326px;
   width:40px;
   height:40px;
 }
 .multiRest {
-  background:url("../images/u1d100/siena.png") -50px  333px;
+  background:url("../images/u1d100/siena.png") -50px -268px;
   width:30px;
   height:30px;
 }
 .multiBarRest {
-  background:url("../images/u1d100/siena.png") -188px  327px;
+  background:url("../images/u1d100/siena.png") -187px -274px;
   width:30px;
   height:20px;
 }
 .breve {
-  background:url("../images/u1d100/siena.png") -18px  248px;
+  background:url("../images/u1d100/siena.png") -18px -354px;
   width:40px;
   height:30px;
 }
 .wholeNote {
-  background:url("../images/u1d100/siena.png") -23px 195px;
+  background:url("../images/u1d100/siena.png") -22px -405px;
   width:30px;
   height:22px;
 }
 .wholeRest {
-  background:url("../images/u1d100/siena.png") -23px 293px;
+  background:url("../images/u1d100/siena.png") -22px -307px;
   width:30px;
   height:30px;
 }
 .halfNoteDown {
-  background:url("../images/u1d100/siena.png") -78px 228px;
+  background:url("../images/u1d100/siena.png") -78px -372px;
   width:32px;
   height:58px;
 }
 .halfNoteUp {
-  background:url("../images/u1d100/siena.png") -78px 170px;
+  background:url("../images/u1d100/siena.png") -78px -430px;
   width:32px;
   height:58px;
 }
 .halfRest {
-  background:url("../images/u1d100/siena.png") -78px 295px;
+  background:url("../images/u1d100/siena.png") -78px -308px;
   width:30px;
   height:30px;
 }
 .quarterNoteDown {
-  background:url("../images/u1d100/siena.png") -134px 229px;
+  background:url("../images/u1d100/siena.png") -134px -372px;
   width:32px;
   height:58px;
 }
 .quarterNoteUp {
-  background:url("../images/u1d100/siena.png") -132px 170px;
+  background:url("../images/u1d100/siena.png") -132px -428px;
   width:32px;
   height:58px;
 }
 .quarterRest {
-  background:url("../images/u1d100/siena.png") -134px 298px;
+  background:url("../images/u1d100/siena.png") -135px -302px;
   width:30px;
   height:40px;
 }
 .eigthNoteDown {
-  background:url("../images/u1d100/siena.png") -188px 228px;
+  background:url("../images/u1d100/siena.png") -190px -372px;
   width:32px;
   height:58px;
 }
 .eigthNoteUp {
-  background:url("../images/u1d100/siena.png") -188px 168px;
+  background:url("../images/u1d100/siena.png") -188px -433px;
   width:32px;
   height:58px;
 }
 .eigthRest {
-  background:url("../images/u1d100/siena.png") -190px 290px;
+  background:url("../images/u1d100/siena.png") -190px -310px;
   width:30px;
   height:40px;
 }
 .sixteenthNoteDown {
-  background:url("../images/u1d100/siena.png") -245px 228px;
+  background:url("../images/u1d100/siena.png") -246px -372px;
   width:32px;
   height:58px;
 }
 .sixteenthNoteUp {
-  background:url("../images/u1d100/siena.png") -245px 168px;
+  background:url("../images/u1d100/siena.png") -245px -433px;
   width:32px;
   height:58px;
 }
 .sixteenthRest {
-  background:url("../images/u1d100/siena.png") -246px 296px;
+  background:url("../images/u1d100/siena.png") -247px -304px;
   width:30px;
   height:40px;
 }
 .thirty2ndNoteDown {
-  background:url("../images/u1d100/siena.png") -301px 231px;
+  background:url("../images/u1d100/siena.png") -301px -369px;
   width:32px;
   height:58px;
 }
 .thirty2ndNoteUp {
-  background:url("../images/u1d100/siena.png") -301px 165px;
+  background:url("../images/u1d100/siena.png") -301px -435px;
   width:32px;
   height:58px;
 }
 .thirty2ndRest {
-  background:url("../images/u1d100/siena.png") -304px 306px;
+  background:url("../images/u1d100/siena.png") -304px -294px;
   width:30px;
   height:50px;
 }
 .brevis {
-  background:url("../images/u1d100/siena.png") -106px  327px;
+  background:url("../images/u1d100/siena.png") -106px -274px;
   width:30px;
   height:20px;
 }
 .voidSemiBrevis {
-  background:url("../images/u1d100/siena.png") -358px 198px;
+  background:url("../images/u1d100/siena.png") -358px -403px;
   width:30px;
   height:30px;
 }
 .darkSemiBrevis {
-  background:url("../images/u1d100/siena.png") -358px 175px;
+  background:url("../images/u1d100/siena.png") -358px -427px;
   width:30px;
   height:30px;
 }
 .voidMinimaDown {
-  background:url("../images/u1d100/siena.png") -414px 225px;
+  background:url("../images/u1d100/siena.png") -414px -375px;
   width:30px;
   height:52px;
 }
 .voidMinimaUp {
-  background:url("../images/u1d100/siena.png") -414px 168px;
+  background:url("../images/u1d100/siena.png") -414px -432px;
   width:30px;
   height:52px;
 }
 .darkMinimaDown {
-  background:url("../images/u1d100/siena.png") -470px 225px;
+  background:url("../images/u1d100/siena.png") -470px -375px;
   width:30px;
   height:52px;
 }
 .darkMinimaUp {
-  background:url("../images/u1d100/siena.png") -470px 168px;
+  background:url("../images/u1d100/siena.png") -470px -432px;
   width:30px;
   height:52px;
 }
 .semiMinimaDown {
-  background:url("../images/u1d100/siena.png") -527px 225px;
+  background:url("../images/u1d100/siena.png") -527px -375px;
   width:30px;
   height:52px;
 }
 .semiMinimaUp {
-  background:url("../images/u1d100/siena.png") -527px 168px;
+  background:url("../images/u1d100/siena.png") -527px -432px;
   width:30px;
   height:52px;
 }
 .fusaDown {
-  background:url("../images/u1d100/siena.png") -584px 225px;
+  background:url("../images/u1d100/siena.png") -584px -375px;
   width:30px;
   height:52px;
 }
 .fusaUp {
-  background:url("../images/u1d100/siena.png") -584px 168px;
+  background:url("../images/u1d100/siena.png") -584px -432px;
   width:30px;
   height:52px;
 }
 /* note relation  */
 .beam {
-  background:url("../images/u1d100/siena.png") -28px 41px;
+  background:url("../images/u1d100/siena.png") -28px -560px;
   width:74px;
   height:20px;
 }
 .dblBeam {
-  background:url("../images/u1d100/siena.png") -140px 45px;
+  background:url("../images/u1d100/siena.png") -140px -555px;
   width:74px;
   height:24px;
 }
 .shortBeam {
-  background:url("../images/u1d100/siena.png") -265px 41px;
+  background:url("../images/u1d100/siena.png") -265px -559px;
   width:46px;
   height:20px;
 }
 .miniBeam {
-  background:url("../images/u1d100/siena.png") -265px 77px;
+  background:url("../images/u1d100/siena.png") -265px -523px;
   width:26px;
   height:20px;
 }
 .dot {
-  background:url("../images/u1d100/siena.png") -23px 156px;
-  width:30px;
-  height:22px;
+  background:url("../images/u1d100/siena.png") -27px -447px;
+  width:20px;
+  height:20px;
 }
 .slurLow {
-  background:url("../images/u1d100/siena.png") -481px 40px;
+  background:url("../images/u1d100/siena.png") -481px -559px;
   width:65px;
   height:20px;
 }
 .slurTop {
-  background:url("../images/u1d100/siena.png") -370px 40px;
+  background:url("../images/u1d100/siena.png") -370px -559px;
   width:65px;
   height:20px;
 }
@@ -452,160 +452,160 @@
   height:20px;
 }
 .glissandoDown {
-  background:url("../images/u1d100/siena.png") -745px 114px;
+  background:url("../images/u1d100/siena.png") -745px -487px;
   width:30px;
   height:30px;
 }
 .glissandoUp {
-  background:url("../images/u1d100/siena.png") -745px 64px;
+  background:url("../images/u1d100/siena.png") -745px -537px;
   width:30px;
   height:30px;
 }
 /* repeats and codas */
 .beat {
-  background:url("../images/u1d100/siena.png") -470px 472px;
+  background:url("../images/u1d100/siena.png") -470px -128px;
   width:30px;
   height:45px;
 }
 .repeat {
-  background:url("../images/u1d100/siena.png") -526px 472px;
+  background:url("../images/u1d100/siena.png") -526px -128px;
   width:30px;
   height:45px;
 }
 .repeatDots {
-  background:url("../images/u1d100/siena.png") -415px 475px;
+  background:url("../images/u1d100/siena.png") -415px -124px;
   width:30px;
   height:30px;
 }
 .repeatRight {
-  background:url("../images/u1d100/siena.png") -360px 486px;
+  background:url("../images/u1d100/siena.png") -355px -114px;
   width:30px;
   height:50px;
 }
 .repeatLeft {
-  background:url("../images/u1d100/siena.png") -305px 486px;
+  background:url("../images/u1d100/siena.png") -306px -114px;
   width:30px;
   height:50px;
 }
 .coda {
-  background:url("../images/u1d100/cocoa.png") -527px 540px;
+  background:url("../images/u1d100/cocoa.png") -527px -60px;
   width:30px;
   height:34px;
 }
 .sign {
-  background:url("../images/u1d100/siena.png") -578px 548px;
+  background:url("../images/u1d100/siena.png") -578px -52px;
   width:35px;
   height:40px;
 }
 .tremoloDownOne {
-  background:url("../images/u1d100/siena.png") -753px 495px;
+  background:url("../images/u1d100/siena.png") -752px -105px;
   width:25px;
   height:30px;
 }
 .tremoloUpOne {
-  background:url("../images/u1d100/siena.png") -753px 548px;
+  background:url("../images/u1d100/siena.png") -753px -52px;
   width:25px;
   height:30px;
 }
 .tremoloDownTwo {
-  background:url("../images/u1d100/siena.png") -753px 328px;
+  background:url("../images/u1d100/siena.png") -753px -272px;
   width:25px;
   height:30px;
 }
 .tremoloUpTwo {
-  background:url("../images/u1d100/siena.png") -753px 380px;
+  background:url("../images/u1d100/siena.png") -753px -220px;
   width:25px;
   height:30px;
 }
 .tremoloDown3 {
-  background:url("../images/u1d100/siena.png") -753px 160px;
+  background:url("../images/u1d100/siena.png") -753px -440px;
   width:25px;
   height:32px;
 }
 .tremoloUp3 {
-  background:url("../images/u1d100/siena.png") -753px 212px;
+  background:url("../images/u1d100/siena.png") -753px -388px;
   width:25px;
   height:32px;
 }
 /* dynamics */
 .forte {
-  background:url("../images/u1d100/siena.png") -636px 123px;
+  background:url("../images/u1d100/siena.png") -636px -477px;
   width:36px;
   height:30px;
 }
 .mezzo {
-  background:url("../images/u1d100/siena.png") -637px 205px;
+  background:url("../images/u1d100/siena.png") -637px -395px;
   width:36px;
   height:27px;
 }
 .piano {
-  background:url("../images/u1d100/siena.png") -635px 287px;
+  background:url("../images/u1d100/siena.png") -635px -313px;
   width:36px;
   height:27px;
 }
 .crescendo {
-  background:url("../images/u1d100/siena.png") -750px 290px;
+  background:url("../images/u1d100/siena.png") -750px -312px;
   width:30px;
   height:30px;
 }
 .decrescendo {
-  background:url("../images/u1d100/siena.png") -750px 254px;
+  background:url("../images/u1d100/siena.png") -750px -348px;
   width:30px;
   height:30px;
 }
 .fermata {
-  background:url("../images/u1d100/siena.png") -580px 68px;
+  background:url("../images/u1d100/siena.png") -580px -533px;
   width:36px;
   height:27px;
 }
 .fermataLow {
-  background:url("../images/u1d100/siena.png") -636px 68px;
+  background:url("../images/u1d100/siena.png") -636px -532px;
   width:36px;
   height:27px;
 }
 .caesura {
-  background:url("../images/u1d100/siena.png") -406px 421px;
+  background:url("../images/u1d100/siena.png") -406px -179px;
   width:48px;
   height:32px;
 }
 .accent {
-  background:url("../images/u1d100/siena.png") -307px 412px;
+  background:url("../images/u1d100/siena.png") -307px -188px;
   width:20px;
   height:20px;
 }
 /* ornaments */
 .trill {
-  background:url("../images/u1d100/siena.png") -637px 375px;
+  background:url("../images/u1d100/siena.png") -637px -225px;
   width:36px;
   height:27px;
 }
 .grace {
-  background:url("../images/u1d100/siena.png") -643px 458px;
+  background:url("../images/u1d100/siena.png") -643px -142px;
   width:20px;
   height:28px;
 }
 .flam {
-  background:url("../images/u1d100/siena.png") -643px 542px;
+  background:url("../images/u1d100/siena.png") -643px -58px;
   width:20px;
   height:28px;
 }
 .arpeggio {
-  background:url("../images/u1d100/siena.png") -587px 472px;
+  background:url("../images/u1d100/siena.png") -587px -128px;
   width:20px;
   height:40px;
 }
 .mordent {
-  background:url("../images/u1d100/siena.png") -696px 69px;
+  background:url("../images/u1d100/siena.png") -696px -531px;
   width:25px;
   height:25px;
 }
 .turnInvert {
-  background:url("../images/u1d100/siena.png") -692px 121px;
+  background:url("../images/u1d100/siena.png") -692px -479px;
   width:35px;
   height:25px;
 }
 .turn {
-  background:url("../images/u1d100/siena.png") -692px 157px;
+  background:url("../images/u1d100/siena.png") -692px -443px;
   width:35px;
   height:25px;
 }
