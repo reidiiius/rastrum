@@ -8,8 +8,32 @@
 .info {
   font-family:sans-serif;
   font-size:16px;
-  color:#778899;
 }
+
+.wt { color:#ffffff; } /* White rgb(255,255,255) */
+.bk { color:#000000; } /* Black rgb(0,0,0) */
+
+.sv { color:#c0c0c0; } /* Silver rgb(192,192,192) */
+.gy { color:#808080; } /* Gray rgb(128,128,128) */
+
+.fc { color:#ff00ff; } /* Fuchsia rgb(255,0,255) */
+.pp { color:#800080; } /* Purple rgb(128,0,128) */
+
+.rd { color:#ff0000; } /* Red rgb(255,0,0) */
+.mr { color:#800000; } /* Maroon rgb(128,0,0) */
+
+.yl { color:#ffff00; } /* Yellow rgb(255,255,0) */
+.ol { color:#808000; } /* Olive rgb(128,128,0) */
+
+.lm { color:#00ff00; } /* Lime rgb(0,255,0) */
+.gn { color:#008000; } /* Green rgb(0,128,0) */
+
+.aq { color:#00ffff; } /* Aqua rgb(0,255,255) */
+.tl { color:#008080; } /* Teal rgb(0,128,128) */
+
+.bu { color:#0000ff; } /* Blue rgb(0,0,255) */
+.nv { color:#000080; } /* Navy rgb(0,0,128) */
+
 /* time  */
 .blank {
   background:url("../images/u1d100/siena.png") -20px  -60px;

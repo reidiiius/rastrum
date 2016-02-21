@@ -3,7 +3,7 @@ Rastrum
 
 ### Music Engraving
 
-- version: 140614.0
+- version: 160221.0
 
 #### time
 
@@ -192,5 +192,5 @@ Rastrum
 
 - MIT License
 
-> Copyright &#169; 2014 Reid Netterville III
+> Copyright &#169; 2014-2016 Reid Netterville III
 
